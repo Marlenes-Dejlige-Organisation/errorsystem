@@ -1,0 +1,11 @@
+.succes-klasse {
+    color: green;
+}
+
+.advarsel-klasse {
+    color: orange;
+}
+
+.fejl-klasse {
+    color: red;
+}
